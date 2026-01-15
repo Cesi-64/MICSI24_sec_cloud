@@ -2,7 +2,7 @@
 
 # --- Variables ---
 RG_NAME="rg-cocktail-prod1"
-LOCATION="francecentral1"
+LOCATION="francecentral"
 DB_NAME="cocktaildb-prod1"
 PLAN_NAME="cocktail-plan1"
 APP_NAME="cocktail-api-prod1"
